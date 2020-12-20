@@ -15,14 +15,14 @@
 * Replicable assembly for other groups (parts should be easily manufacturable/sourceable)
 
 #### Lower Level Design Goals
-* Camera mount accepts either D435i or L515 camera
+* Camera mount accepts either Intel Depth cameras or L515 LiDAR system
 * Suite accommodates two straps for Minicheetah underbelly battery mounting solution
 
 ***(Extra points)***
 Not an eyesore (hopefully).
 <br><br>
 ## Overview
-This sensor suite was designed to house and protect an NVIDIA Jetson Xavier as well as a vision system. Our suite will accept either the Intel D435i depth camera or L515 LiDAR. Additional components such as network switches may be mounted at the rear via tape. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah.
+This sensor suite was designed to house and protect an NVIDIA Jetson Xavier as well as a vision system. Our suite will accept either the Intel depth camera or L515 LiDAR system. Additional components such as network switches may be mounted at the rear via tape. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah.
 <br><br>
 ## Printed Components
 STL files found under /stl <br>
