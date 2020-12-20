@@ -53,10 +53,10 @@ Any 3D printer filament such as PLA, PETG, ABS will work
 | M4 Nylock Nut | 90576A103         | 10  |
 
 <img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P3.png?token=ADDGZNI2TYRFAAY3C4Y7UZC747ZWS" height="70%" width="70%">
-<br>_Underside Fasteners View with transparent MkV-001_
+Underside Fasteners View with transparent MkV-001
 <br>
 <br><img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P2.png?token=ADDGZNLWH62R7IDJ5R6B27C747ZVI" height="70%" width="70%">
-<br>_Isometric Fasteners View with Xavier removed and all printed components transparent_
+Isometric Fasteners View with Xavier removed and all printed components transparent. Fasteners are color coded below
 <br><br>
 All 10 M4 nuts (red) are fastened with the 10 M4x16mm bolts (blue).<br>
 The 2 M4x18mm (yellow) belong in the front fastening MkV-002u3 and MkV-001 to the Minicheetah<br>
