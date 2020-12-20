@@ -14,11 +14,15 @@
 
 ***(Extra points)***
 Not an eyesore (hopefully).
-
+<br><br>
+## Overview
+This sensor suite was designed to house and protect an NVIDIA Jetson Xavier as well as a vision system. Our suite will accept either the Intel D435i depth camera or L515 LiDAR. Additional components such as network switches may be mounted at the rear via tape. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah.
+<br><br>
 ## Printed Components
 STL files found under /stl <br>
 Support material is unnecessary for any part besides MkV-002u3<br>
-3-4 perimeter layers minimum, 30-40% infill, 0.2mm layer height
+3-4 perimeter layers minimum, 30-40% infill, 0.2mm layer height<br>
+Any 3D printer filament such as PLA, PETG, ABS will work
 
 
 | Name                        | Description                 |
@@ -28,6 +32,8 @@ Support material is unnecessary for any part besides MkV-002u3<br>
 | MkV-004                     | Outer Shell                 |
 | MkV-005 &<br>Mirrored-MkV-005 | Camera Protection for L515  |
 | MkV-006 &<br>Mirrored-MkV-006 | Camera Protection for D435i |
+| MkV-007 | Underbelly Battery Mount (Lower) |
+| MkV-008 | Underbelly Battery Mount (Upper) |
 
 ## Fasteners
 
@@ -54,6 +60,8 @@ The 4 M3x40mm (purple) fasten the NVIDIA Jetson Xavier to MkV-001<br>
 The 2 M3x8mm (orange) fasten either of the camera options to MkV-002u3
 <br><br>
 Camera Protection pieces may be glued to the MkV-004 shell, or alternatively, M4 bolts and nuts may be used for temporary fastening.
+<br><br>
+Battery mount is fastened to the Minicheetah with 2 cargo straps. MkV-007 & 008 battery case is fastened together with an additional 6 M4x12mm bolts and M4 nuts. 
 
 
 ##### For any issues with printing, assembling, or part sourcing, contact yujustin@umich.edu or tzuyuan@umich.edu
