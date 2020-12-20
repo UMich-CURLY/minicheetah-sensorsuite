@@ -1,7 +1,7 @@
 # CURLY's Minicheetah Sensor Suite Mk V
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW" height="50%" width="50%">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P4.JPG?token=ADDGZNMVGQCLZ2JP5VHVDY27475RI" height="50%" width="50%">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P5.JPG?token=ADDGZNPSPGTFZSEW6BPNZSS7475SK" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW" height="80%" width="80%">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P4.JPG?token=ADDGZNMVGQCLZ2JP5VHVDY27475RI" height="35%" width="35%">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P5.JPG?token=ADDGZNPSPGTFZSEW6BPNZSS7475SK" height="35%" width="35%">
 
 <br>3D-Printed sensor suite designed to augment Minicheetah autonomous capabilities. 
 <br>
