@@ -37,7 +37,7 @@ Any 3D printer filament such as PLA, PETG, ABS will work
 | MkV-002u3                   | Camera Mount                |
 | MkV-004                     | Outer Shell                 |
 | MkV-005 &<br>Mirrored-MkV-005 | Camera Protection for L515  |
-| MkV-006 &<br>Mirrored-MkV-006 | Camera Protection for D435i |
+| MkV-006 &<br>Mirrored-MkV-006 | Camera Protection for Intel Depth Cameras |
 | MkV-007 | Underbelly Battery Mount (Lower) |
 | MkV-008 | Underbelly Battery Mount (Upper) |
 
