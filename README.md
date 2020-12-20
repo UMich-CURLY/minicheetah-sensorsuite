@@ -1,4 +1,4 @@
-# Minicheetah Sensor Suite Mk V
+# CURLY's Minicheetah Sensor Suite Mk V
 ![Image](https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW)
 <br>3D-Printed sensor suite designed to augment Minicheetah autonomous capabilities. <br>
 #### High Level Design Goals
