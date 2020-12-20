@@ -1,6 +1,8 @@
 # CURLY's Minicheetah Sensor Suite Mk V
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW" height="80%" width="80%">
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P4.JPG?token=ADDGZNMVGQCLZ2JP5VHVDY27475RI" height="35%" width="35%"><img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P5.JPG?token=ADDGZNPSPGTFZSEW6BPNZSS7475SK" height="35%" width="35%">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW" height="100%" width="100%">
+<p float="left">
+  <img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P4.JPG?token=ADDGZNMVGQCLZ2JP5VHVDY27475RI" height="35%" width="35%"><img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P5.JPG?token=ADDGZNPSPGTFZSEW6BPNZSS7475SK" height="35%" width="35%">
+</p>
 
 <br>3D-Printed sensor suite designed to augment Minicheetah autonomous capabilities. 
 <br>
@@ -52,10 +54,10 @@ Any 3D printer filament such as PLA, PETG, ABS will work
 | M4 Nylock Nut | 90576A103         | 10  |
 
 
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P3.png?token=ADDGZNI2TYRFAAY3C4Y7UZC747ZWS" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P3.png?token=ADDGZNI2TYRFAAY3C4Y7UZC747ZWS" height="70%" width="70%">
 <br>*Underside Fasteners View with transparent MkV-001*
 <br>
-<br><img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P2.png?token=ADDGZNLWH62R7IDJ5R6B27C747ZVI" height="50%" width="50%">
+<br><img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P2.png?token=ADDGZNLWH62R7IDJ5R6B27C747ZVI" height="70%" width="70%">
 <br>*Isometric Fasteners View with all electronics removed and all printed components transparent*
 <br><br>
 All 10 M4 nuts (red) are fastened with the 10 M4x16mm bolts (blue).<br>
