@@ -1,5 +1,5 @@
 # Minicheetah Sensor Suite Mk V
-![Image](https://github.com/UMich-CURLY/minicheetah-sensorsuite/tree/master/img/P1.png)
+![Image](https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW)
 <br>3D-Printed sensor suite designed to augment Minicheetah autonomous capabilities. <br>
 #### High Level Design Goals
 * Secure/rigid/robust design
@@ -41,10 +41,10 @@ Support material is unnecessary for any part besides MkV-002u3<br>
 | M4 Nylock Nut | 90576A103         | 10  |
 
 
-![Image](https://github.com/UMich-CURLY/minicheetah-sensorsuite/tree/master/img/P3.png)
+![Image](https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P3.png?token=ADDGZNI2TYRFAAY3C4Y7UZC747ZWS)
 <br>*Underside Fasteners View with transparent MkV-001*
 <br>
-<br>![Image](https://github.com/UMich-CURLY/minicheetah-sensorsuite/tree/master/img/P2.png)
+<br>![Image](https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P2.png?token=ADDGZNLWH62R7IDJ5R6B27C747ZVI)
 <br>*Isometric Fasteners View with all electronics removed and all printed components transparent*
 <br><br>
 All 10 M4 nuts (red) are fastened with the 10 M4x16mm bolts (blue).<br>
