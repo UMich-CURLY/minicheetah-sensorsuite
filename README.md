@@ -6,7 +6,7 @@
 
 <br><br>
 ## Overview
-New FEA weight-stiffness optimized design to house and protect an NVIDIA Jetson Xavier and a vision system. Our suite will accept the Intel depth camera. Additional components such as network switches may be secured with zipties. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah. 
+New FEA weight-stiffness optimized design to house and protect an NVIDIA Jetson Xavier and a vision system. Our suite will accept the Intel D455 depth camera. Additional components such as network switches may be secured with zipties. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah. 
 <br><br>
 
 ## Printed Components
@@ -26,10 +26,9 @@ Any filament material such as PLA, PETG, or ABS will work
 
 | Fastener Name | McMaster-Carr PID | Qty |
 |---------------|-------------------|-----|
-| M3x8mm        | 91290A113         | 2   |
 | M3x40mm       | 91290A136         | 4   |
 | M4x16mm       | 91274A119         | 10  |
-| M4x10mm       | 91290A144         | 2   |
+| M4x12mm       | 91290A144         | 2   |
 | M4x18mm       | 91290A164         | 2   |
 | M4 Nylock Nut | 90576A103         | 10  |
 
