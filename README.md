@@ -1,5 +1,5 @@
 # CURLY's Minicheetah Sensor Suite Mk 8
-<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P1.png?token=ADDGZNIAN63E5D3ORJ236RC747ZTW" height="100%" width="100%">
+<img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/Untitled%20Project%2011.png" height="100%" width="100%">
 <p float="left">
   <img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P4.JPG?token=ADDGZNMVGQCLZ2JP5VHVDY27475RI" height="35%" width="35%"><img src="https://raw.githubusercontent.com/UMich-CURLY/minicheetah-sensorsuite/master/img/P5.JPG?token=ADDGZNPSPGTFZSEW6BPNZSS7475SK" height="35%" width="35%">
 </p>
