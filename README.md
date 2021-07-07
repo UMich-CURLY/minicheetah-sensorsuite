@@ -6,7 +6,7 @@
 
 <br><br>
 ## Overview
-New design features FEA weight-stiffness optimization, holes for wire organization, and significant reduction in part count. Our suite will accept the Intel D455 depth camera. Additional components such as network switches may be secured with zipties. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah. 
+New design features FEA weight-stiffness optimization, throughholes and ziptie mounts for wire organization, and significant reduction in part count. Our suite will accept the Intel D455 depth camera. Additional components such as network switches may be secured with zipties. 2 cargo straps are run through the sensor suite frame to secure a [Krisdonia portable battery](https://www.amazon.com/Krisdonia-Portable-TSA-Approved-25000mAh-Smartphone/dp/B074PQBRJV/ref=pd_bxgy_3/145-9030221-8924019?_encoding=UTF8&pd_rd_i=B074PQBRJV&pd_rd_r=2784de7f-2ee9-4e7e-a4bc-77ea9417cde1&pd_rd_w=JQHPX&pd_rd_wg=A5wtw&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=4B2XVXJKFZKAB6JSTR0R&psc=1&refRID=4B2XVXJKFZKAB6JSTR0R) to the underside of the Minicheetah. 
 <br><br>
 
 ## Printed Components
