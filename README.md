@@ -21,6 +21,8 @@ Any filament material such as PLA, PETG, or ABS will work
 | P-001                       | Base Platform Mount         |
 | P-002                       | Camera Mount                |
 | P-004                       | Outer Shell                 |
+| P-007                       | Battery Mount (Upper)       |
+| P-008                       | Battery Mount (Lower)       |
 
 ## Fasteners
 
