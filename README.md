@@ -31,7 +31,7 @@ Any filament material such as PLA, PETG, or ABS will work
 | M3x40mm       | 91290A136         | 4   |
 | M4x16mm       | 91274A119         | 10  |
 | M4x12mm       | 91290A144         | 2   |
-| M4x18mm       | 91290A164         | 2   |
-| M4 Nylock Nut | 90576A103         | 10  |
+| M4x18mm       | 91290A164         | 6   |
+| M4 Nylock Nut | 90576A103         | 14  |
 
 ##### For any issues with printing, assembling, or part sourcing, contact yujustin@umich.edu or tzuyuan@umich.edu
